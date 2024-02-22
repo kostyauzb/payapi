@@ -1,0 +1,56 @@
+.about_title h1 {
+  width: 73rem;
+  height: 18rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 6rem;
+  letter-spacing: -0.4px;
+  color: #36536b;
+  margin-top: 5rem;
+}
+.our {
+  display: flex;
+  gap: 3rem;
+  margin-top: 5rem;
+}
+.our h3 {
+  width: 25rem;
+  margin-top: 3rem;
+  font-size: 3rem;
+  color: #36536b;
+  line-height: 4rem;
+  letter-spacing: -0.25px;
+}
+.our p {
+  width: 63rem;
+  height: 11rem;
+  font-size: 1.5rem;
+  color: #6c8294;
+  line-height: 3rem;
+}
+.img_con {
+  margin-top: 3rem;
+  background: repeat;
+  background: no-repeat;
+  margin-left: 30px;
+}
+.fozi_300 {
+  display: flex;
+  gap: 2rem;
+}
+.chiziq {
+  width: 25rem;
+  height: 1px;
+  background-color: #36536b;
+  margin-top: 2rem;
+}
+.foiz h4 {
+  font-size: 1.5rem;
+  color: #6c8294;
+  margin-top: 3rem;
+}
+.foiz h1 {
+  font-size: 5rem;
+  color: #ba4270;
+  margin-top: 2rem;
+}

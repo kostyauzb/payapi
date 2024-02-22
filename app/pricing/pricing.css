@@ -1,0 +1,67 @@
+.pricing h1 {
+  font-size: 5rem;
+  margin-top: 8rem;
+  color: #36536b;
+}
+.palnss {
+  width: 25rem;
+}
+.fre_palns h3 {
+  color: #ba4270;
+  font-size: 3rem;
+  margin-top: 8rem;
+}
+.fre_palns p {
+  font-size: 1.5rem;
+  line-height: 3rem;
+  color: #6c8294;
+  margin-top: 1rem;
+}
+.fre_palns h1 {
+  margin-top: 2rem;
+}
+.chiziq {
+  width: 25rem;
+  height: 1px;
+  margin-top: 2rem;
+  background-color: #36536b;
+}
+.chek {
+  width: 2rem;
+  height: 0.8rem;
+  margin-top: 5px;
+}
+.cheklar {
+  margin-top: 2.3rem;
+  display: flex;
+  gap: 1.5rem;
+  font-size: 1.5rem;
+  color: #36536b;
+}
+.chek_titles {
+  font-size: 1.5rem;
+  color: #6c8294;
+  margin-top: 2rem;
+  margin-left: 3.2rem;
+}
+.chek_btn {
+  width: 16rem;
+  height: 4rem;
+  background-color: #edf3f8;
+  border-radius: 2rem;
+  cursor: pointer;
+  margin-top: 2rem;
+  font-size: 1.2rem;
+  color: #36536b;
+}
+.chek_btn:hover {
+  background-color: #36536b;
+  color: white;
+}
+.palnss {
+  display: flex;
+  gap: 3rem;
+}
+.past h1 {
+  margin-top: -1rem;
+}
