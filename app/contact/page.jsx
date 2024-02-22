@@ -13,6 +13,7 @@ import microsoft from "../../public/microsoft.qora.svg";
 import hp from "../../public/hp.qora.svg";
 import google from "../../public/google.qora.svg";
 import nvidia from "../../public/nvidia.qora.svg";
+
 const page = () => {
   return (
     <>
